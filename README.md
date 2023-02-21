@@ -11,4 +11,4 @@ I have attached some projects I did during my studies, as part of courses in obj
 Welcome to take a look :point_up_2:
 
 ### 💻 Technical skills : 
-\f01b
+![image](https://user-images.githubusercontent.com/116487988/220427710-8c49d212-fb9f-40a5-8ace-6d0fc21cdfee.png)
