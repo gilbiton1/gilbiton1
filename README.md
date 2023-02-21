@@ -9,3 +9,6 @@ I am a third year industrial engineering and management student at Ben Gurion Un
 I am passionate about solving problems and analyzing data using code and SQL
 I have attached some projects I did during my studies, as part of courses in object-oriented programming, databases and information systems
 Welcome to take a look :point_up_2:
+
+### 💻 Technical skills : 
+ci-python
