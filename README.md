@@ -1,16 +1,17 @@
-### Hello 👋
+Enhancing MobileBERT with Data Augmentation and LoRA Fine-Tuning
+This project explores improvements to MobileBERT—a lightweight, task-agnostic BERT model optimized for mobile and resource-constrained environments. Our goal is to boost performance and robustness by applying dynamic data augmentation and efficient fine-tuning using LoRA (Low-Rank Adaptation).
 
-<!--
-**gilbiton1/gilbiton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Key Features
+🧠 MobileBERT Backbone: Fast and compact transformer model.
 
+🔁 Dynamic Augmentation: Real-time text perturbations (word swaps, synonyms, typos) during training.
 
--->
-I am a 4th industrial engineering and management student at Ben Gurion University.
+🔧 LoRA Fine-Tuning: Efficient weight adaptation without full model retraining.
 
-I am passionate about solving problems with data science methonds, and analyzing data using code and SQL.
-I have attached some projects I did during my studies, as part of courses in object-oriented programming, databases and information systems 
+📊 Multi-Task Evaluation: Supports all GLUE tasks with F1 score tracking.
 
-Welcome to take a look :point_up_2:
+📱 Mobile-Ready: Ideal for deployment on edge and mobile devices.
 
-
+Project Goals
+Improve generalization, robustness to input variations, and reduce computational costs during training—all while preserving MobileBERT’s speed and compactness.
 
