@@ -17,13 +17,13 @@ I'm a Data Scientist with an M.Sc. in Data Science (Research Track), specializin
 - 🔬 [**Early Prediction of Prediabetes**](https://github.com/gilbiton1/prediabetes-thesis)  
   Full ML pipeline on real EHR data: data preprocessing, temporal feature selection (t-test, bootstrapping, effect sizes), multi-year modeling (XGBoost, RF, MLP), Optuna-based hyperparameter tuning, and clinical insight extraction.
 
-- 🧠 [**MobileBERT + LoRA Fine-Tuning**](https://github.com/gilbiton1/mobilebert-lora)  
-  Efficient transformer fine-tuning using LoRA on the GLUE and BoolQ tasks, with extensive NLP data augmentation.
-
 - 🛠 [**Manufacturing Defect Detection – WAFER Project**](https://github.com/gilbiton1/wafer-defect-detection)  
   ML pipeline for semiconductor scratch classification based on tabular and visual features. Includes feature engineering (spatial, neighborhood-based), class imbalance handling, model evaluation.
 
-📈 [**Stock Price Prediction – Hybrid ML + Time Series Similarity**] (https://github.com/ruben-bgu/time-series-analysis-project)
+- 🧠 [**MobileBERT + LoRA Fine-Tuning**](https://github.com/gilbiton1/mobilebert-lora)  
+  Efficient transformer fine-tuning using LoRA on the GLUE and BoolQ tasks, with extensive NLP data augmentation.
+
+-📈 [**Stock Price Prediction – Hybrid ML + Time Series Similarity**](https://github.com/gilbiton1/stock-price-prediction)
 Built a hybrid model for stock price direction forecasting by combining XGBoost with sequence similarity methods (DTW, SAX).
 The approach integrates co-integrated stock data, nearest-neighbor pattern detection to capture both global trends and local temporal patterns.
 
