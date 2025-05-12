@@ -24,6 +24,7 @@ I'm a Data Scientist with an M.Sc. in Data Science (Research Track), specializin
   Efficient transformer fine-tuning using LoRA on the GLUE and BoolQ tasks, with extensive NLP data augmentation.
 
 - 📈 [**Stock Price Prediction – Hybrid ML + Time Series Similarity**](https://github.com/gilbiton1/stock-price-prediction)
+
 Built a hybrid model for stock price direction forecasting by combining XGBoost with sequence similarity methods (DTW, SAX).
 The approach integrates co-integrated stock data, nearest-neighbor pattern detection to capture both global trends and local temporal patterns.
 
